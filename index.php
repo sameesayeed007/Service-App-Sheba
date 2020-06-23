@@ -84,7 +84,7 @@ body {
 }
 
 .topnav a {
-  float: left;
+  float:left;
   display: block;
   color: black;
   text-align: center;
